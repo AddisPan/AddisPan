@@ -1,14 +1,15 @@
 ## Hi there 👋
 
 <!--
-*# Hi there, I'm AddisPan! 👋
+# Hi there, I'm AddisPan! 👋
 
-我是個熱愛技術的開發者 (或是寫你的職稱，例如：學生、後端工程師)。
+## 🛠️ Languages and Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
 
-- 🔭 我目前正在開發 ... (寫一個專案名稱)
-- 🌱 我目前正在學習 ... (例如：Python, React, AWS)
-- 👯 我希望能與人合作 ... (例如：開源專案)
-- 💬 可以問我關於 ... (你擅長的領域)
-- 📫 如何聯絡我： ... (Email 或 LinkedIn)
-- ⚡ 有趣的事實： ... (例如：我可以用 10 秒喝完一杯珍奶)
+## 📊 My GitHub Stats
+![AddisPan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AddisPan&show_icons=true&theme=radical)
 -->
