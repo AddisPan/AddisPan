@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 - 🌱 I’m currently learning **System Design & Cloud Architecture**
-- 💬 Ask me about **JavaScript, Python, React, Java**
+- 💬 Ask me about **C#, Python, JavaScript, Java**
 - 📫 How to reach me: **addis1201@gmail.com**
 
 ---
